@@ -2,7 +2,7 @@
 
 Repo chuyên đề kiểm chứng an toàn cho [worksphere-app](https://github.com/Khiemnh158/worksphere-app). Không có bản backend riêng; mọi fix sản phẩm nằm ở app.
 
-**Hiện trạng: có audit và probe local đã chạy; chưa có bộ test bảo mật toàn diện, SAST/Maven/image scan hoặc kết quả khắc phục mọi lỗi.** Target nguồn chuẩn tại [target.json](target.json), app commit `98ac167fcc63952eba0bcf45057117d98034c7a4`.
+**Hiện trạng: có audit và probe local đã chạy; chưa có bộ test bảo mật toàn diện, SAST/Maven/image scan hoặc kết quả khắc phục mọi lỗi.** Target nguồn chuẩn tại [target.json](target.json), app commit `dfea1d9b6fc0abdc764d311dbefbcccbf8b9cadd`.
 
 ## Đã đưa vào
 - [Phạm vi môn](docs/COURSE_SCOPE.md), [TODO](TODO.md), [trạng thái](STATUS.md).
