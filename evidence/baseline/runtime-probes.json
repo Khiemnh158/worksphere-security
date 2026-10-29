@@ -1,0 +1,9 @@
+{
+  "before_logout_profile_http": 200,
+  "logout_http": 204,
+  "after_logout_old_access_profile_http": 200,
+  "same_refresh_two_parallel_statuses": [
+    200,
+    200
+  ]
+}
